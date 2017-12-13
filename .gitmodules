@@ -1,0 +1,12 @@
+[submodule "Libraries/haxeui-core"]
+	path = Libraries/haxeui-core
+	url = git@github.com:haxeui/haxeui-core.git
+	branch = master
+[submodule "Libraries/haxeui-kha"]
+	path = Libraries/haxeui-kha
+	url = git@github.com:haxeui/haxeui-kha.git
+	branch = master
+[submodule "Libraries/hscript"]
+	path = Libraries/hscript
+	url = git@github.com:HaxeFoundation/hscript.git
+	branch = master
